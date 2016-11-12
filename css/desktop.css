@@ -30,6 +30,8 @@ div { box-sizing: border-box; }
 }
 .navigation ul li {
 	display: inline-block;
+	margin-left: 5px;
+	margin-right: 5px;
 }
 .navigation ul li a{
 	color: #ffffff;
@@ -242,6 +244,7 @@ div { box-sizing: border-box; }
 	.family { margin-left: 10px; margin-right: 10px; clear: both; }
 	.family-box {margin-left: 40px; margin-right: 40px;}
 	.image {width: 100%; padding-left: 10px; padding-right: 10px;}
+	.navigation ul li {margin-left: 0px; margin-right: 0px;}
 }
 
 
